@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">aktiviteter2</string>
+    <string name="moj_tekst">Hej Verden</string>
+        <string name="drugi_tekst">God morgen</string>
+    <string name="trzeci_tekst">farvel</string>
+    <string name="czwarty_tekst">God aftenr</string>
+    <string name="piaty_tekst">Hej</string>
+    <string name="szosty_tekst">Vejr</string>
+</resources>

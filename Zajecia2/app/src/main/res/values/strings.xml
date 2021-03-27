@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zajecia2</string>
+    <string name="moj_tekst">Witaj świecie</string>
+    <string name="drugi_tekst">Dzień dobry</string>
+    <string name="trzeci_tekst">Żegnaj</string>
+    <string name="czwarty_tekst">Dobry wieczór</string>
+    <string name="piaty_tekst">Witam</string>
+    <string name="szosty_tekst">Pogoda</string>
+</resources>

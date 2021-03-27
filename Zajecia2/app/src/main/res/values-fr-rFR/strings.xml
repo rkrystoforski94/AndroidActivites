@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activités2</string>
+    <string name="moj_tekst">Bonjour le monde</string>
+    <string name="drugi_tekst">Bonjour</string>
+    <string name="trzeci_tekst">Au revoir</string>
+    <string name="czwarty_tekst">Bonsoir</string>
+    <string name="piaty_tekst">Bonjour</string>
+    <string name="szosty_tekst">La météo</string>
+</resources>

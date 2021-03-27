@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">činnosti2</string>
+    <string name="moj_tekst">Ahoj světe</string>
+    <string name="drugi_tekst">Dobré ráno</string>
+    <string name="trzeci_tekst">Ahoj</string>
+    <string name="czwarty_tekst">dobrý večer</string>
+    <string name="piaty_tekst">Ahoj</string>
+    <string name="szosty_tekst">počasí</string>
+</resources>
